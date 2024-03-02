@@ -9,7 +9,7 @@
 </br>
 - This will benefit specifically for swing traders and long-term investor
 <br>
-</br>
+<br>
 <h3 align="Left" style="color: red;">Datasets </h3>
 - The datasets in this project are daily exchange rates level of three currency pairs EUR/USD, EUR/GBP and GBP/JPY from 2018 to 2024. The variables that are in the dataset are:
 <br>
