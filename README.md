@@ -20,3 +20,8 @@ High: Highest price of the day<br>
 Low: Lowest price of the day<br>
 Close: Close price of the day<br>
 Volume: Amount of transactions of the day<br>
+</br>
+
+<h3 align="Left">Origin:</h3>
+Forex Software link: https://forexsb.com/historical-forex-data<br>
+Direct access to datasets: https://github.com/KevinDinh03/Forex_Analysis_Dashboard/tree/main/Datasets
